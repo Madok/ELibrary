@@ -1,5 +1,4 @@
 # ELibrary
-Students project on University.
 
 Requirements Specification.
 ELibrary is a web application for maintenance books store.
